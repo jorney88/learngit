@@ -5,3 +5,4 @@ insert a new bracha
 Creating a new branch is quick & simple.
 add merge
 add dev1
+delete dev1
